@@ -1,8 +1,17 @@
-<h1 align="left">Hi 👋, I'm Pérola Morena</h1>
-<h3 align="left">A passionate data analyst from Brazil, I hold a degree in Education from the Universidade Federal Rural do Rio de Janeiro, and I am currently transitioning into the field of data analysis, bringing a combination of communication, organizational, and analytical thinking skills. I believe my previous experience gives me a competitive edge, enabling me to translate complex analyses into clear and accessible insights for diverse teams. 
-Throughout my training in the TripleTen Data Analysis bootcamp, I gained solid technical knowledge in key industry tools, including Python and libraries such as pandas, numpy, matplotlib, plotly, scipy, and scikit-learn. I have practical experience applying these tools to solve business problems in areas such as machine learning, customer segmentation, KPI analysis, data-driven decision-making, statistical testing, and economic analysis. 
-As a teacher, I developed a unique ability to explain concepts clearly and accessibly, which is essential for communicating data insights to various audiences. My experience with planning and scheduling allows me to structure data projects efficiently, meeting deadlines and managing priorities. My goal is to apply my technical and interpersonal skills to transform data into strategic decisions, contributing to teams and organizations that value clarity, accuracy, and data-driven insights.
-I am also fluent in English and have an intermediate level of Spanish, which enables me to participate in international projects.</h3>
+<p align='center'>
+  <h1> Welcome, everyone! </h1>
+</p>
+
+**My name is Pérola Morena, and I am a data analyst in transition. It’s a pleasure to have you here!** I’ve always been passionate about learning and communication, which initially led me to pursue a degree in **Education** at the Universidade Federal Rural do Rio de Janeiro. Recently, I’ve discovered my love for **data analysis** and decided to pivot my career into this dynamic field.
+
+In September 2022, I embarked on a journey to deepen my skills in **Data Analysis** through specialized training. I graduated from the TripleTen **Data Analysis Bootcamp**, where I acquired strong technical expertise in Python and its key libraries, including **pandas, numpy, matplotlib, plotly, scipy, and scikit-learn**, among others. During the bootcamp, I learned how to apply these tools to solve business problems, such as **machine learning, customer segmentation, KPI analysis, statistical testing, and economic analysis**. I also developed practical skills in **data cleaning, transformation, and preprocessing**.
+
+My experience as a teacher has equipped me with excellent communication and organizational skills, allowing me to explain complex data insights in a clear and accessible way. This, combined with my ability to manage schedules and priorities, ensures that I can execute data projects efficiently and effectively.
+
+Additionally, I am fluent in **English** and have an **intermediate level of Spanish**, enabling me to work on international projects and collaborate with diverse teams. My goal is to use my technical and interpersonal skills to transform data into actionable insights that drive strategic decisions, contributing to organizations that value clarity and data-driven growth.
+
+If you have any questions or would like to connect, **feel free to reach out**. I’m excited about the future of data analysis and eager to make a meaningful impact in this field!
+
 
 - 📫 How to reach me **perolamorenasouza@gmail.com**
 
