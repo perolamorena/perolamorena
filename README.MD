@@ -26,7 +26,7 @@ If you have any questions or would like to connect, feel free to reach out. I’
 And feel free to take a look at my projects below::
 ------------
 
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Observação  | 
+|    Project's Name  | Notebook or Link    | Language   | Note  | 
 | ------------        | ------------        | ------------ |------------ |
 | *Event-Based E-commerce Analysis* | [marketing_condition](https://github.com/perolamorena/marketing-condition) | Python, ML, SKlearn| **A project with Machine Learn**. Market condition analysis of restaurants in Los Angeles, with a presentation at the end.|
 | *Event-Based E-commerce Analysis* | [Project_Ecommerce](https://github.com/perolamorena/Ecommerce-Analysis) | Python| **A project with Event-Based Analysis and A/B Testing**. Project with Data Processing and Exploratory Data Analysis (EDA). From problem definition and data processing to Exploratory Data Analysis (EDA) and graph creation. The goal is to identify potential successes to plan an advertising campaign for 2017.|
