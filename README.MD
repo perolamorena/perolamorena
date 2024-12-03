@@ -2,13 +2,13 @@
   <h1> Welcome, everyone! </h1>
 </p>
 
-My name is Pérola Morena, and I am a data analyst in transition. It’s a pleasure to have you here! I’ve always been passionate about learning and communication, which initially led me to pursue a degree in Education at the Universidade Federal Rural do Rio de Janeiro. Recently, I’ve discovered my love for data analysis and decided to pivot my career into this dynamic field.
+I'm Pérola Morena, a passionate data analyst from Brazil with a degree in Education from the Universidade Federal Rural do Rio de Janeiro. Currently transitioning into the field of data analysis, I bring a blend of communication, organizational, and analytical thinking skills. My previous experience provides me with a competitive edge, enabling me to translate complex analyses into clear and accessible insights for diverse teams.
 
-In September 2022, I embarked on a journey to deepen my skills in Data Analysis through specialized training. I graduated from the TripleTen Data Analysis Bootcamp, where I acquired strong technical expertise in Python and its key libraries, including pandas, numpy, matplotlib, plotly, scipy, and scikit-learn, among others. During the bootcamp, I learned how to apply these tools to solve business problems, such as machine learning, customer segmentation, KPI analysis, statistical testing, and economic analysis. I also developed practical skills in data cleaning, transformation, and preprocessing.
+During my training in the TripleTen Data Analysis bootcamp, I acquired solid technical knowledge in essential industry tools, including Python and libraries such as pandas, numpy, matplotlib, plotly, scipy, and scikit-learn. I have hands-on experience applying these tools to solve business challenges in areas like machine learning, customer segmentation, KPI analysis, data-driven decision-making, statistical testing, and economic analysis.
 
-My experience as a teacher has equipped me with excellent communication and organizational skills, allowing me to explain complex data insights in a clear and accessible way. This, combined with my ability to manage schedules and priorities, ensures that I can execute data projects efficiently and effectively.
+As a teacher, I developed the ability to explain concepts clearly and accessibly, a crucial skill for communicating data insights to varied audiences. My experience in planning and scheduling equips me to structure data projects efficiently, meet deadlines, and manage priorities effectively. My goal is to leverage my technical and interpersonal skills to transform data into strategic decisions, contributing to teams and organizations that value clarity, precision, and data-driven insights.
 
-Additionally, I am fluent in English and have an intermediate level of Spanish, enabling me to work on international projects and collaborate with diverse teams. My goal is to use my technical and interpersonal skills to transform data into actionable insights that drive strategic decisions, contributing to organizations that value clarity and data-driven growth.
+Fluent in English and with an intermediate level of Spanish, I am also prepared to collaborate on international projects.
 
 If you have any questions or would like to connect, feel free to reach out. I’m excited about the future of data analysis and eager to make a meaningful impact in this field!
 
